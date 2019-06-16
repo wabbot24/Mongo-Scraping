@@ -1,1 +1,1 @@
-# Mongo-Scraping
+This is not a working application, there is no code in it.
